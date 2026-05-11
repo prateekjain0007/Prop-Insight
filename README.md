@@ -3,7 +3,7 @@
 
 This app provides **property price predictions**, **market insights**, **recommendations**, and **analytics**, all through an interactive **Streamlit** interface.
 
-> 🔗 **Live App:** https://real-estate-app.onrender.com
+> 🔗 **Live App:** [https://real-estate-app.onrender.com](https://prop-insight-orfl.onrender.com/)
 
 ---
 
