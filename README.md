@@ -52,7 +52,7 @@ This app provides **property price predictions**, **market insights**, **recomme
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/Anshuman-Chakraborty/real-estate-app.git
+git clone https://github.com/prateekjain0007/Prop-Insight.git
 cd real-estate-app
 pip install -r requirements.txt
 streamlit run Home.py
